@@ -111,13 +111,20 @@ Lista playlists criadas e permite acessar detalhes.
 Permite visualizar músicas pertencentes a uma playlist específica.
 
 🐞 Problema Conhecido: 
-Atualizar Página Remove Playlists. Ao atualizar a página (F5) em /playlists, as playlists somem;
-CRUD não funcional;
 
-Problemas Corrigidos: 
-Enviado via gitHub;
-melhor estrutura das rotas;
-LocalStorege agora funcionando no Login;
+Atualizar Página Remove Playlists. Ao atualizar a página (F5) em /playlists, as playlists somem.
+
+CRUD não funcional.
+
+Sem Redux.
+
+👍 Problemas Corrigidos: 
+
+Enviado via gitHub.
+
+melhor estrutura das rotas.
+
+LocalStorege agora funcionando no Login.
 
 
 
